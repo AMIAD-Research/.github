@@ -5,5 +5,4 @@
 ## Latest Projects
 
 ## Contact
-For inquiries, please contact us at:  
 [cellule-technique-amiad@meslistes.polytechnique.edu](mailto:cellule-technique-amiad@meslistes.polytechnique.edu)

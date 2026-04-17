@@ -15,6 +15,8 @@ AMIAD is committed to strengthening the Ministry of Armed Forces’ ability to i
 
 ## Latest Projects
 
+- **[Offroad-Nav](https://github.com/LARIAD/Offroad-Nav)**  
+  An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack
 - **[AA-YOLO](https://github.com/AMIAD-Research/AA-YOLO)**  
   Official implementation of *“An Anomaly-Aware Detection Head for Frugal and Robust Infrared Small Target Detection”*
 

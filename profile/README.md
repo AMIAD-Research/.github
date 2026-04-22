@@ -15,6 +15,8 @@ AMIAD is committed to strengthening the Ministry of Armed Forces’ ability to i
 
 ## Latest Projects
 
+- **[Offroad-Nav](https://github.com/LARIAD/ViLiNT)**  
+  Multimodal embodiment-aware navigation transformer
 - **[Offroad-Nav](https://github.com/LARIAD/Offroad-Nav)**  
   An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack
 - **[AA-YOLO](https://github.com/AMIAD-Research/AA-YOLO)**  
